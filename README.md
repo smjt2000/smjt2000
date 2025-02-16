@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @smjt2000 , __Seyed Mohammad Javad Taghipoor__
-- 👀 I’m interested in ___Python___
-- 🌱 I’m currently learning ___Django___
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi,  __Seyed Mohammad Javad Taghipoor__
+- 👀 Interested in ___Python___
+- 🌱 currently learning ___Django___
 - 📫 How to reach me : [Telegram](https://t.me/smjt_2000) , [Instagram](https://instagram.com/smjt_2000) , [Email](mailto:smjavadt.1379@gmail.com)
 
 <!---
